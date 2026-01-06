@@ -82,11 +82,21 @@ Both QA models learn to predict answer spans:
 
 ---
 
+
 ## Notes
 
 * FLAN-T5 performs better with instruction-style prompts
 * DeBERTa provides higher accuracy; DistilBERT provides faster inference
 * Designed for exam preparation, study material generation, and document understanding
+
+# Example
+
+![Screenshot 1](images/Output%201.jpg)
+![Screenshot 2](images/output%202.jpg)
+![Screenshot 3](images/output%203.jpg)
+![Screenshot 4](images/output%204.jpg)
+![Screenshot 5](images/output%205.jpg)
+![Screenshot 6](images/output%206.jpg)
 
 
 
