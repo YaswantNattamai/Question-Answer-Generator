@@ -82,19 +82,6 @@ Both QA models learn to predict answer spans:
 
 ---
 
-## Repository Structure
-
-app_updated.py – Streamlit application
-t5base-traintest.ipynb – T5 question generation training
-flan-t5-train-evaluation.ipynb – FLAN-T5 question generation training
-debertasquad.ipynb – DeBERTa QA training (SQuAD v2)
-t5-final/ – Fine-tuned T5 question generation model
-flan_t5_final/ – Fine-tuned FLAN-T5 question generation model
-deberta_qa_final/ – Fine-tuned DeBERTa QA model
-distilbert_qa_final/ – Fine-tuned DistilBERT QA model
-
----
-
 ## Notes
 
 * FLAN-T5 performs better with instruction-style prompts
